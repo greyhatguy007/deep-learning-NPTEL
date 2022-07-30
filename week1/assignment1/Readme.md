@@ -1,0 +1,1 @@
+![](week1/assignment1/ss1.png)
