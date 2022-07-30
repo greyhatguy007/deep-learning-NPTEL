@@ -1,1 +1,1 @@
-![](week1/assignment1/ss1.png)
+![](/week1/assignment1/ss1.png)
