@@ -15,5 +15,9 @@ Contains My Progress, Solutions for Assignments, Quizzes in the [Deep Learning C
 - [Assignment](week2/assignment2)
 - [Lecture](week2/Lecture3.pdf)
 
+### [Week 3](week3/)
+-  [Assignment](/week3/assignment3/)
+- [Lecture](/week3/Lecture4.pdf)
+
 
 ###### Credits : IIT Ropar & IIT Madras
